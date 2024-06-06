@@ -13,7 +13,6 @@ class Todo extends Model
         'due_date',
         'status_id',
         'user_id',
-        'status'
     ];
 
     public function user()
